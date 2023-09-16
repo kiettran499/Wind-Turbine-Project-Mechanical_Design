@@ -1,0 +1,16 @@
+[StartTime]
+Gear1-Static 1.MFC=1s
+[SolverState]
+Gear1-Static 1.MFC=2
+[MainFrame]
+Gear1-Static 1.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+Gear1-Static 1.MFC=No
+[SolverType]
+Gear1-Static 1.MFC=Linear Analysis
+[StudyType]
+Gear1-Static 1.MFC=0
+[StudyName]
+Gear1-Static 1.MFC=Static 1
+[Solver]
+Gear1-Static 1.MFC=Iterative
