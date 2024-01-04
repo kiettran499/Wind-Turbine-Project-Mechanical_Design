@@ -30,12 +30,33 @@
 
 - For the material of the shafts and gears of the wind turbine, we select EN8 and 080M40 steel. It is a medium carbon engineering steel with good mechanical qualities that is widely used in the construction of mechanical parts including general axles and shafts, gears, bolts, and stud bolts. In addition, we should select a stronger material for the key, which will prevent it from breaking during system operation. EN8 and 080M40 steel with hardened and tempered + turned or ground condition is selected.
 - After doing calculations of the components, we put them together as indicated in the diagram below.
+<p align="center">
+  <img width="500" src="https://github.com/kiettran499/Wind-Turbine-Project-Mechanical_Design/blob/main/The%20final%20design%20with%20bedplate_2D%20drawning.png">
+</p>
 
+- Gearbox Assembly (Animation GIF)
+<p align="center">
+  <img width="500" src="https://github.com/kiettran499/Wind-Turbine-Project-Mechanical_Design/blob/main/Gearbox_assembly%20.gif">
+  
+## Simulation and System Analysis
 
+### Motion analysis
+- By using Motion Analysis on SolidWorks, we can run the whole system and see the angular velocity of the output which is the high-speed shaft. Firstly, we apply a rotor, which has angular velocity of 60 RPM, to the main shaft. The expected angular velocity of the output is 750 RPM or 450 rad/s.
+<p align="center">
+  <img width="500" src="https://github.com/kiettran499/Wind-Turbine-Project-Mechanical_Design/blob/main/MotionAnalysis.png">
+</p>
 
-
-
-
+- Gearbox Motion Simulation (Animation GIF)
+<p align="center">
+  <img width="500" src="https://github.com/kiettran499/Wind-Turbine-Project-Mechanical_Design/blob/main/Gearbox_MotionAnalysis.gif">
+  
+### FEA simulation
+- After shafts are designed by using Solidworks, we will analyze the FEA using Simulation function. Images below show the Mesh, Stress, Deformation, and Strain analysis of components.
+<p align="center">
+  <img width="500" src="https://github.com/kiettran499/Wind-Turbine-Project-Mechanical_Design/blob/main/FEA%20analysis%20of%20main%20shaft.png">
+</p>
+<p align="center">
+  <img width="500" src="https://github.com/kiettran499/Wind-Turbine-Project-Mechanical_Design/blob/main/FEA%20analysis%20of%20Gear1.png">
 
 
 
